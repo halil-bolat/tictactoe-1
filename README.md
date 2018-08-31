@@ -1,2 +1,1 @@
-# tictactoe-1
-homework
+# tictactoe
